@@ -1,0 +1,55 @@
+html,
+body,
+main,
+h1,
+h2,
+h3,
+p,
+li,
+img {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+}
+
+body {
+    font-family: 'Helvetica Neue', 'Segoe UI', sans-serif;
+    background: #fafafa;
+}
+
+main {
+    width: 92%;
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+h1,
+h2,
+h3,
+p {
+    margin-bottom: 16px;
+}
+
+p,
+li {
+    font-size: 18px;
+}
+
+li {
+    list-style: none;
+    margin-bottom: 12px;
+}
+
+p {
+    line-height: 1.4em;
+}
+
+a {
+    color: #5c85d6;
+}
+
+.signout {
+    text-align: right;
+}
+
