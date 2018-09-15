@@ -26,9 +26,15 @@ main {
 
 h1,
 h2,
+h3 {
+    margin-top: 28px;
+}
+
+h1,
+h2,
 h3,
 p {
-    margin-bottom: 16px;
+    margin-bottom: 14px;
 }
 
 p,
