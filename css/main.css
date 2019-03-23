@@ -14,7 +14,7 @@ img {
 }
 
 body {
-    font-family: 'Helvetica Neue', 'Segoe UI', sans-serif;
+    font-family: system-ui, 'Helvetica Neue', 'Segoe UI', sans-serif;
     background: #fafafa;
 
     --theme-color: rgb(17, 182, 165);
