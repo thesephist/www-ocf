@@ -45,6 +45,12 @@ li {
     font-size: 18px;
 }
 
+.subtitle {
+    color: #777;
+    margin-bottom: 24px;
+    font-size: 1em;
+}
+
 ul {
     padding-left: 20px;
 }
